@@ -1,0 +1,1557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Currencies>
+  <Currency>
+    <IsoCode>AED</IsoCode>
+    <IsoNumber>784</IsoNumber>
+    <Name>UAE Dirham</Name>
+    <Symbol>د.إ</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>UAE</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>AFN</IsoCode>
+    <IsoNumber>971</IsoNumber>
+    <Name>Afghani</Name>
+    <Symbol>Af</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Afghanistan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ALL</IsoCode>
+    <IsoNumber>8</IsoNumber>
+    <Name>Lek</Name>
+    <Symbol>L</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Albania</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>AMD</IsoCode>
+    <IsoNumber>51</IsoNumber>
+    <Name>Armenian Dram</Name>
+    <Symbol>Դ</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Armenia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>AOA</IsoCode>
+    <IsoNumber>973</IsoNumber>
+    <Name>Kwanza</Name>
+    <Symbol>Kz</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Angola</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ARS</IsoCode>
+    <IsoNumber>32</IsoNumber>
+    <Name>Argentine Peso</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Argentina</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>AUD</IsoCode>
+    <IsoNumber>36</IsoNumber>
+    <Name>Australian Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Australia</Country>
+      <Country>Kiribati</Country>
+      <Country>Coconut Islands</Country>
+      <Country>Nauru</Country>
+      <Country>Tuvalu</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>AWG</IsoCode>
+    <IsoNumber>533</IsoNumber>
+    <Name>Aruban Florin</Name>
+    <Symbol>ƒ</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Aruba</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>AZN</IsoCode>
+    <IsoNumber>944</IsoNumber>
+    <Name>Azerbaijan Manat</Name>
+    <Symbol>ман</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Azerbaijan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BAM</IsoCode>
+    <IsoNumber>977</IsoNumber>
+    <Name>Convertible Mark</Name>
+    <Symbol>КМ</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bosnia and Herzegovina</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BBD</IsoCode>
+    <IsoNumber>52</IsoNumber>
+    <Name>Barbados Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Barbados</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BDT</IsoCode>
+    <IsoNumber>50</IsoNumber>
+    <Name>Taka</Name>
+    <Symbol>৳</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bangladesh</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BGN</IsoCode>
+    <IsoNumber>975</IsoNumber>
+    <Name>Bulgarian Lev</Name>
+    <Symbol>лв</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bulgaria</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BHD</IsoCode>
+    <IsoNumber>48</IsoNumber>
+    <Name>Bahraini Dinar</Name>
+    <Symbol>ب.د</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Bahrain</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BIF</IsoCode>
+    <IsoNumber>108</IsoNumber>
+    <Name>Burundi Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Burundi</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BMD</IsoCode>
+    <IsoNumber>60</IsoNumber>
+    <Name>Bermudian Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bermuda</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BND</IsoCode>
+    <IsoNumber>96</IsoNumber>
+    <Name>Brunei Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Brunei</Country>
+      <Country>Singapore</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BOB</IsoCode>
+    <IsoNumber>68</IsoNumber>
+    <Name>Boliviano</Name>
+    <Symbol>Bs.</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bolivia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BRL</IsoCode>
+    <IsoNumber>986</IsoNumber>
+    <Name>Brazilian Real</Name>
+    <Symbol>R$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Brazil</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BSD</IsoCode>
+    <IsoNumber>44</IsoNumber>
+    <Name>Bahamian Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bahamas</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BTN</IsoCode>
+    <IsoNumber>64</IsoNumber>
+    <Name>Ngultrum</Name>
+    <Symbol></Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bhutan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BWP</IsoCode>
+    <IsoNumber>72</IsoNumber>
+    <Name>Pula</Name>
+    <Symbol>P</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Botswana</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>BZD</IsoCode>
+    <IsoNumber>84</IsoNumber>
+    <Name>Belize Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Belize</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CAD</IsoCode>
+    <IsoNumber>124</IsoNumber>
+    <Name>Canadian Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Canada</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CDF</IsoCode>
+    <IsoNumber>976</IsoNumber>
+    <Name>Congolese Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Congo (Kinshasa)</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CHF</IsoCode>
+    <IsoNumber>756</IsoNumber>
+    <Name>Swiss Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Lichtenstein</Country>
+      <Country>Switzerland</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CLP</IsoCode>
+    <IsoNumber>152</IsoNumber>
+    <Name>Chilean Peso</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Chile</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CNY</IsoCode>
+    <IsoNumber>156</IsoNumber>
+    <Name>Yuan Renminbi</Name>
+    <Symbol>¥</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>China</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>COP</IsoCode>
+    <IsoNumber>170</IsoNumber>
+    <Name>Colombian Peso</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Colombia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CRC</IsoCode>
+    <IsoNumber>188</IsoNumber>
+    <Name>Costa Rican Colon</Name>
+    <Symbol>₡</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Costa Rica</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CUP</IsoCode>
+    <IsoNumber>192</IsoNumber>
+    <Name>Cuban Peso</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Cuba</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CVE</IsoCode>
+    <IsoNumber>132</IsoNumber>
+    <Name>Cabo Verde Escudo</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Cape Verde</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>CZK</IsoCode>
+    <IsoNumber>203</IsoNumber>
+    <Name>Czech Koruna</Name>
+    <Symbol>Kč</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Czech Republic</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>DJF</IsoCode>
+    <IsoNumber>262</IsoNumber>
+    <Name>Djibouti Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Djibouti</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>DKK</IsoCode>
+    <IsoNumber>208</IsoNumber>
+    <Name>Danish Krone</Name>
+    <Symbol>kr</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Denmark</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>DOP</IsoCode>
+    <IsoNumber>214</IsoNumber>
+    <Name>Dominican Peso</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Dominican Republic</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>DZD</IsoCode>
+    <IsoNumber>12</IsoNumber>
+    <Name>Algerian Dinar</Name>
+    <Symbol>د.ج</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Algeria</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>EGP</IsoCode>
+    <IsoNumber>818</IsoNumber>
+    <Name>Egyptian Pound</Name>
+    <Symbol>£</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Egypt</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ERN</IsoCode>
+    <IsoNumber>232</IsoNumber>
+    <Name>Nakfa</Name>
+    <Symbol>Nfk</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Eritrea</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ETB</IsoCode>
+    <IsoNumber>230</IsoNumber>
+    <Name>Ethiopian Birr</Name>
+    <Symbol></Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Ethiopia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>EUR</IsoCode>
+    <IsoNumber>978</IsoNumber>
+    <Name>Euro</Name>
+    <Symbol>€</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Akrotiri and Dhekelia</Country>
+      <Country>Andorra</Country>
+      <Country>Austria</Country>
+      <Country>Belgium</Country>
+      <Country>Cyprus</Country>
+      <Country>Estonia</Country>
+      <Country>Finland</Country>
+      <Country>France</Country>
+      <Country>Germany</Country>
+      <Country>Greece</Country>
+      <Country>Ireland</Country>
+      <Country>Italy</Country>
+      <Country>Kosovo</Country>
+      <Country>Latvia</Country>
+      <Country>Lithuania</Country>
+      <Country>Luxembourg</Country>
+      <Country>Malta</Country>
+      <Country>Monaco</Country>
+      <Country>Montenegro</Country>
+      <Country>Netherlands</Country>
+      <Country>Portugal</Country>
+      <Country>San-Marino</Country>
+      <Country>Slovakia</Country>
+      <Country>Slovenia</Country>
+      <Country>Spain</Country>
+      <Country>Vatican</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>FJD</IsoCode>
+    <IsoNumber>242</IsoNumber>
+    <Name>Fiji Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Fiji</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>FKP</IsoCode>
+    <IsoNumber>238</IsoNumber>
+    <Name>Falkland Islands Pound</Name>
+    <Symbol>£</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Falkland Islands</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GBP</IsoCode>
+    <IsoNumber>826</IsoNumber>
+    <Name>Pound Sterling</Name>
+    <Symbol>£</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Alderney</Country>
+      <Country>British Indian Ocean Territory</Country>
+      <Country>Great Britain</Country>
+      <Country>Isle of Maine</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GEL</IsoCode>
+    <IsoNumber>981</IsoNumber>
+    <Name>Lari</Name>
+    <Symbol>ლ</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Georgia</Country>
+      <Country>South Ossetia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GHS</IsoCode>
+    <IsoNumber>936</IsoNumber>
+    <Name>Ghana Cedi</Name>
+    <Symbol>₵</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Ghana</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GIP</IsoCode>
+    <IsoNumber>292</IsoNumber>
+    <Name>Gibraltar Pound</Name>
+    <Symbol>£</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Gibraltar</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GMD</IsoCode>
+    <IsoNumber>270</IsoNumber>
+    <Name>Dalasi</Name>
+    <Symbol>D</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Gambia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GNF</IsoCode>
+    <IsoNumber>324</IsoNumber>
+    <Name>Guinean Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Guinea</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GTQ</IsoCode>
+    <IsoNumber>320</IsoNumber>
+    <Name>Quetzal</Name>
+    <Symbol>Q</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Guatemala</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>GYD</IsoCode>
+    <IsoNumber>328</IsoNumber>
+    <Name>Guyana Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Guyana</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>HKD</IsoCode>
+    <IsoNumber>344</IsoNumber>
+    <Name>Hong Kong Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Hong Kong</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>HNL</IsoCode>
+    <IsoNumber>340</IsoNumber>
+    <Name>Lempira</Name>
+    <Symbol>L</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Honduras</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>HRK</IsoCode>
+    <IsoNumber>191</IsoNumber>
+    <Name>Kuna</Name>
+    <Symbol>Kn</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Croatia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>HTG</IsoCode>
+    <IsoNumber>332</IsoNumber>
+    <Name>Gourde</Name>
+    <Symbol>G</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Haiti</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>HUF</IsoCode>
+    <IsoNumber>348</IsoNumber>
+    <Name>Forint</Name>
+    <Symbol>Ft</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Hungary</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>IDR</IsoCode>
+    <IsoNumber>360</IsoNumber>
+    <Name>Rupiah</Name>
+    <Symbol>Rp</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Indonesia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ILS</IsoCode>
+    <IsoNumber>376</IsoNumber>
+    <Name>New Israeli Sheqel</Name>
+    <Symbol>₪</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Israel</Country>
+      <Country>Palestine</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>INR</IsoCode>
+    <IsoNumber>356</IsoNumber>
+    <Name>Indian Rupee</Name>
+    <Symbol>₹</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Bhutan</Country>
+      <Country>India</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>IQD</IsoCode>
+    <IsoNumber>368</IsoNumber>
+    <Name>Iraqi Dinar</Name>
+    <Symbol>ع.د</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Iraq</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>IRR</IsoCode>
+    <IsoNumber>364</IsoNumber>
+    <Name>Iranian Rial</Name>
+    <Symbol>﷼</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Iran</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ISK</IsoCode>
+    <IsoNumber>352</IsoNumber>
+    <Name>Iceland Krona</Name>
+    <Symbol>Kr</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Iceland</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>JMD</IsoCode>
+    <IsoNumber>388</IsoNumber>
+    <Name>Jamaican Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Jamaica</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>JOD</IsoCode>
+    <IsoNumber>400</IsoNumber>
+    <Name>Jordanian Dinar</Name>
+    <Symbol>د.ا</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Jordan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>JPY</IsoCode>
+    <IsoNumber>392</IsoNumber>
+    <Name>Yen</Name>
+    <Symbol>¥</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Japan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KES</IsoCode>
+    <IsoNumber>404</IsoNumber>
+    <Name>Kenyan Shilling</Name>
+    <Symbol>Sh</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Kenya</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KGS</IsoCode>
+    <IsoNumber>417</IsoNumber>
+    <Name>Som</Name>
+    <Symbol></Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Kyrgyzstan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KHR</IsoCode>
+    <IsoNumber>116</IsoNumber>
+    <Name>Riel</Name>
+    <Symbol>៛</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Cambodia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KPW</IsoCode>
+    <IsoNumber>408</IsoNumber>
+    <Name>North Korean Won</Name>
+    <Symbol>₩</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>North Korea</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KRW</IsoCode>
+    <IsoNumber>410</IsoNumber>
+    <Name>Won</Name>
+    <Symbol>₩</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>South Korea</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KWD</IsoCode>
+    <IsoNumber>414</IsoNumber>
+    <Name>Kuwaiti Dinar</Name>
+    <Symbol>د.ك</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Kuwait</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KYD</IsoCode>
+    <IsoNumber>136</IsoNumber>
+    <Name>Cayman Islands Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Cayman Islands</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>KZT</IsoCode>
+    <IsoNumber>398</IsoNumber>
+    <Name>Tenge</Name>
+    <Symbol>〒</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Kazakhstan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>LAK</IsoCode>
+    <IsoNumber>418</IsoNumber>
+    <Name>Lao Kip</Name>
+    <Symbol>₭</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Laos</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>LBP</IsoCode>
+    <IsoNumber>422</IsoNumber>
+    <Name>Lebanese Pound</Name>
+    <Symbol>ل.ل</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Lebanon</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>LKR</IsoCode>
+    <IsoNumber>144</IsoNumber>
+    <Name>Sri Lanka Rupee</Name>
+    <Symbol>Rs</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Sri Lanka</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>LRD</IsoCode>
+    <IsoNumber>430</IsoNumber>
+    <Name>Liberian Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Liberia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>LSL</IsoCode>
+    <IsoNumber>426</IsoNumber>
+    <Name>Loti</Name>
+    <Symbol>L</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Lesotho</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>LYD</IsoCode>
+    <IsoNumber>434</IsoNumber>
+    <Name>Libyan Dinar</Name>
+    <Symbol>ل.د</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Libya</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MAD</IsoCode>
+    <IsoNumber>504</IsoNumber>
+    <Name>Moroccan Dirham</Name>
+    <Symbol>د.م.</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Morocco</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MDL</IsoCode>
+    <IsoNumber>498</IsoNumber>
+    <Name>Moldovan Leu</Name>
+    <Symbol>L</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Moldova</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MGA</IsoCode>
+    <IsoNumber>969</IsoNumber>
+    <Name>Malagasy Ariary</Name>
+    <Symbol></Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Madagascar</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MKD</IsoCode>
+    <IsoNumber>807</IsoNumber>
+    <Name>Denar</Name>
+    <Symbol>ден</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Macedonia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MMK</IsoCode>
+    <IsoNumber>104</IsoNumber>
+    <Name>Kyat</Name>
+    <Symbol>K</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Myanmar (Burma)</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MNT</IsoCode>
+    <IsoNumber>496</IsoNumber>
+    <Name>Tugrik</Name>
+    <Symbol>₮</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Mongolia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MOP</IsoCode>
+    <IsoNumber>446</IsoNumber>
+    <Name>Pataca</Name>
+    <Symbol>P</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Macao</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MUR</IsoCode>
+    <IsoNumber>480</IsoNumber>
+    <Name>Mauritius Rupee</Name>
+    <Symbol>₨</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Mauritius</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MVR</IsoCode>
+    <IsoNumber>462</IsoNumber>
+    <Name>Rufiyaa</Name>
+    <Symbol>ރ.</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Maldives</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MWK</IsoCode>
+    <IsoNumber>454</IsoNumber>
+    <Name>Malawi Kwacha</Name>
+    <Symbol>MK</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Malawi</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MXN</IsoCode>
+    <IsoNumber>484</IsoNumber>
+    <Name>Mexican Peso</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Mexico</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MYR</IsoCode>
+    <IsoNumber>458</IsoNumber>
+    <Name>Malaysian Ringgit</Name>
+    <Symbol>RM</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Malaysia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>MZN</IsoCode>
+    <IsoNumber>943</IsoNumber>
+    <Name>Mozambique Metical</Name>
+    <Symbol>MTn</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Mozambique</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>NAD</IsoCode>
+    <IsoNumber>516</IsoNumber>
+    <Name>Namibia Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Namibia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>NGN</IsoCode>
+    <IsoNumber>566</IsoNumber>
+    <Name>Naira</Name>
+    <Symbol>₦</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Nigeria</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>NIO</IsoCode>
+    <IsoNumber>558</IsoNumber>
+    <Name>Cordoba Oro</Name>
+    <Symbol>C$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Nicaragua</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>NOK</IsoCode>
+    <IsoNumber>578</IsoNumber>
+    <Name>Norwegian Krone</Name>
+    <Symbol>kr</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Norway</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>NPR</IsoCode>
+    <IsoNumber>524</IsoNumber>
+    <Name>Nepalese Rupee</Name>
+    <Symbol>₨</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Nepal</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>NZD</IsoCode>
+    <IsoNumber>554</IsoNumber>
+    <Name>New Zealand Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Cook Islands</Country>
+      <Country>New Zealand</Country>
+      <Country>Niue</Country>
+      <Country>Pitcairn Island</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>OMR</IsoCode>
+    <IsoNumber>512</IsoNumber>
+    <Name>Rial Omani</Name>
+    <Symbol>ر.ع.</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Oman</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PAB</IsoCode>
+    <IsoNumber>590</IsoNumber>
+    <Name>Balboa</Name>
+    <Symbol>B/.</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Panama</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PEN</IsoCode>
+    <IsoNumber>604</IsoNumber>
+    <Name>Sol</Name>
+    <Symbol>S/.</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Peru</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PGK</IsoCode>
+    <IsoNumber>598</IsoNumber>
+    <Name>Kina</Name>
+    <Symbol>K</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Papua New Guinea</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PHP</IsoCode>
+    <IsoNumber>608</IsoNumber>
+    <Name>Philippine Peso</Name>
+    <Symbol>₱</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Philippines</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PKR</IsoCode>
+    <IsoNumber>586</IsoNumber>
+    <Name>Pakistan Rupee</Name>
+    <Symbol>₨</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Pakistan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PLN</IsoCode>
+    <IsoNumber>985</IsoNumber>
+    <Name>Zloty</Name>
+    <Symbol>zł</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Poland</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>PYG</IsoCode>
+    <IsoNumber>600</IsoNumber>
+    <Name>Guarani</Name>
+    <Symbol>₲</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Paraguay</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>QAR</IsoCode>
+    <IsoNumber>634</IsoNumber>
+    <Name>Qatari Rial</Name>
+    <Symbol>ر.ق</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Qatar</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>RON</IsoCode>
+    <IsoNumber>946</IsoNumber>
+    <Name>Romanian Leu</Name>
+    <Symbol>L</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Romania</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>RSD</IsoCode>
+    <IsoNumber>941</IsoNumber>
+    <Name>Serbian Dinar</Name>
+    <Symbol>din</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Kosovo</Country>
+      <Country>Serbia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>RUB</IsoCode>
+    <IsoNumber>643</IsoNumber>
+    <Name>Russian Ruble</Name>
+    <Symbol>р.</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Russia</Country>
+      <Country>South Ossetia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>RWF</IsoCode>
+    <IsoNumber>646</IsoNumber>
+    <Name>Rwanda Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Rwanda</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SAR</IsoCode>
+    <IsoNumber>682</IsoNumber>
+    <Name>Saudi Riyal</Name>
+    <Symbol>ر.س</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Saudi Arabia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SBD</IsoCode>
+    <IsoNumber>90</IsoNumber>
+    <Name>Solomon Islands Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Solomon Islands</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SCR</IsoCode>
+    <IsoNumber>690</IsoNumber>
+    <Name>Seychelles Rupee</Name>
+    <Symbol>₨</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Seychelles</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SDG</IsoCode>
+    <IsoNumber>938</IsoNumber>
+    <Name>Sudanese Pound</Name>
+    <Symbol>£</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Sudan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SEK</IsoCode>
+    <IsoNumber>752</IsoNumber>
+    <Name>Swedish Krona</Name>
+    <Symbol>kr</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Sweden</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SGD</IsoCode>
+    <IsoNumber>702</IsoNumber>
+    <Name>Singapore Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Brunei</Country>
+      <Country>Singapore</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SHP</IsoCode>
+    <IsoNumber>654</IsoNumber>
+    <Name>Saint Helena Pound</Name>
+    <Symbol>£</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Ascension Island</Country>
+      <Country>Saint Helena</Country>
+      <Country>Tristan da Cunha</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SLL</IsoCode>
+    <IsoNumber>694</IsoNumber>
+    <Name>Leone</Name>
+    <Symbol>Le</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Sierra Leone</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SOS</IsoCode>
+    <IsoNumber>706</IsoNumber>
+    <Name>Somali Shilling</Name>
+    <Symbol>Sh</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Somalia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SRD</IsoCode>
+    <IsoNumber>968</IsoNumber>
+    <Name>Surinam Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Suriname</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SYP</IsoCode>
+    <IsoNumber>760</IsoNumber>
+    <Name>Syrian Pound</Name>
+    <Symbol>ل.س</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Syria</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>SZL</IsoCode>
+    <IsoNumber>748</IsoNumber>
+    <Name>Lilangeni</Name>
+    <Symbol>L</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Swaziland</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>THB</IsoCode>
+    <IsoNumber>764</IsoNumber>
+    <Name>Baht</Name>
+    <Symbol>฿</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Thailand</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TJS</IsoCode>
+    <IsoNumber>972</IsoNumber>
+    <Name>Somoni</Name>
+    <Symbol>ЅМ</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Tajikistan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TMT</IsoCode>
+    <IsoNumber>934</IsoNumber>
+    <Name>Turkmenistan New Manat</Name>
+    <Symbol>m</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Turkmenistan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TND</IsoCode>
+    <IsoNumber>788</IsoNumber>
+    <Name>Tunisian Dinar</Name>
+    <Symbol>د.ت</Symbol>
+    <MinorUnits>3</MinorUnits>
+    <Countries>
+      <Country>Tunisia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TOP</IsoCode>
+    <IsoNumber>776</IsoNumber>
+    <Name>Pa’anga</Name>
+    <Symbol>T$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Tonga</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TRY</IsoCode>
+    <IsoNumber>949</IsoNumber>
+    <Name>Turkish Lira</Name>
+    <Symbol>₤</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>North Cyprus</Country>
+      <Country>Turkey</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TTD</IsoCode>
+    <IsoNumber>780</IsoNumber>
+    <Name>Trinidad and Tobago Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Trinidad and Tobago</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TWD</IsoCode>
+    <IsoNumber>901</IsoNumber>
+    <Name>New Taiwan Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Taiwan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>TZS</IsoCode>
+    <IsoNumber>834</IsoNumber>
+    <Name>Tanzanian Shilling</Name>
+    <Symbol>Sh</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Tanzania</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>UAH</IsoCode>
+    <IsoNumber>980</IsoNumber>
+    <Name>Hryvnia</Name>
+    <Symbol>₴</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Ukraine</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>UGX</IsoCode>
+    <IsoNumber>800</IsoNumber>
+    <Name>Uganda Shilling</Name>
+    <Symbol>Sh</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Uganda</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>USD</IsoCode>
+    <IsoNumber>840</IsoNumber>
+    <Name>US Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>American Samoa</Country>
+      <Country>British Indian Ocean Territory</Country>
+      <Country>British Virgin Islands</Country>
+      <Country>Guam</Country>
+      <Country>Haiti</Country>
+      <Country>Marshall Islands</Country>
+      <Country>Micronesia</Country>
+      <Country>Northern Mariana Islands</Country>
+      <Country>Pacific Remote islands</Country>
+      <Country>Palau</Country>
+      <Country>Panama</Country>
+      <Country>Puerto Rico</Country>
+      <Country>Turks and Caicos Islands</Country>
+      <Country>United States of America</Country>
+      <Country>US Virgin Islands</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>UYU</IsoCode>
+    <IsoNumber>858</IsoNumber>
+    <Name>Peso Uruguayo</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Uruguay</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>UZS</IsoCode>
+    <IsoNumber>860</IsoNumber>
+    <Name>Uzbekistan Sum</Name>
+    <Symbol></Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Uzbekistan</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>VND</IsoCode>
+    <IsoNumber>704</IsoNumber>
+    <Name>Dong</Name>
+    <Symbol>₫</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Vietnam</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>VUV</IsoCode>
+    <IsoNumber>548</IsoNumber>
+    <Name>Vatu</Name>
+    <Symbol>Vt</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Vanuatu</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>WST</IsoCode>
+    <IsoNumber>882</IsoNumber>
+    <Name>Tala</Name>
+    <Symbol>T</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Samoa</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>XAF</IsoCode>
+    <IsoNumber>950</IsoNumber>
+    <Name>CFA Franc BEAC</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>Benin</Country>
+      <Country>Burkina Faso</Country>
+      <Country>Cameroon</Country>
+      <Country>Central African Republic</Country>
+      <Country>Chad</Country>
+      <Country>Congo (Brazzaville)</Country>
+      <Country>Côte d'Ivoire</Country>
+      <Country>Equatorial Guinea</Country>
+      <Country>Gabon</Country>
+      <Country>Guinea-Bissau</Country>
+      <Country>Mali</Country>
+      <Country>Niger</Country>
+      <Country>Senegal</Country>
+      <Country>Togo</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>XCD</IsoCode>
+    <IsoNumber>951</IsoNumber>
+    <Name>East Caribbean Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Anguilla</Country>
+      <Country>Antigua and Barbuda</Country>
+      <Country>Dominica</Country>
+      <Country>Grenada</Country>
+      <Country>Montserrat</Country>
+      <Country>Saint Kitts and Nevis</Country>
+      <Country>Saint Lucia</Country>
+      <Country>Saint Vincent and Grenadine</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>XPF</IsoCode>
+    <IsoNumber>953</IsoNumber>
+    <Name>CFP Franc</Name>
+    <Symbol>₣</Symbol>
+    <MinorUnits>0</MinorUnits>
+    <Countries>
+      <Country>French Polynesia</Country>
+      <Country>New Caledonia</Country>
+      <Country>Wallis and Futuna</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>YER</IsoCode>
+    <IsoNumber>886</IsoNumber>
+    <Name>Yemeni Rial</Name>
+    <Symbol>﷼</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Yemen</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ZAR</IsoCode>
+    <IsoNumber>710</IsoNumber>
+    <Name>Rand</Name>
+    <Symbol>R</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Lesotho</Country>
+      <Country>Namibia</Country>
+      <Country>South Africa</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ZMW</IsoCode>
+    <IsoNumber>967</IsoNumber>
+    <Name>Zambian Kwacha</Name>
+    <Symbol>ZK</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Zambia</Country>
+    </Countries>
+  </Currency>
+  <Currency>
+    <IsoCode>ZWL</IsoCode>
+    <IsoNumber>932</IsoNumber>
+    <Name>Zimbabwe Dollar</Name>
+    <Symbol>$</Symbol>
+    <MinorUnits>2</MinorUnits>
+    <Countries>
+      <Country>Zimbabwe</Country>
+    </Countries>
+  </Currency>
+</Currencies>
